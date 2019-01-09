@@ -1,0 +1,31 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "php.validate.executablePath": "/usr/bin/php",
+    "window.zoomLevel": 0,
+    "docBlocker.Author": "Chella",
+    "editor.fontFamily": "Monaco for Powerline",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "editor.renderWhitespace": "all",
+    "[vue]": {},
+    "explorer.confirmDragAndDrop": false,
+    "window.menuBarVisibility": "toggle",
+    "window.titleBarStyle": "custom",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "bold",
+    "vsicons.dontShowNewVersionMessage": true,
+     "vscode_custom_css.imports": [
+         "file://home/sysnxdell/customcss/vscode.css"
+    ],
+    "breadcrumbs.enabled": true,
+    "blade.format.enable": true
+
+}
